@@ -9,10 +9,11 @@
 - 𝙽𝚘𝚝𝚎𝚜 𝚊𝚗𝚍 𝚎𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝𝚜
 
 ## Goals
-- Improve problem-solving skills
-- Learn Git and GitHub
-- Build data science projects
-- Create a strong portfolio
+- 𝙸𝚖𝚙𝚛𝚘𝚟𝚎 𝚙𝚛𝚘𝚋𝚕𝚎𝚖-𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚜𝚔𝚒𝚕𝚕𝚜
+- 𝙻𝚎𝚊𝚛𝚗 𝙶𝚒𝚝 𝚊𝚗𝚍 𝙶𝚒𝚝𝙷𝚞𝚋
+- 𝙱𝚞𝚒𝚕𝚍 𝚍𝚊𝚝𝚊 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜
+- 𝙲𝚛𝚎𝚊𝚝𝚎 𝚊 𝚜𝚝𝚛𝚘𝚗𝚐 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘
+
 
 ## Author
-Varshitha
+𝚅𝚊𝚛𝚜𝚑𝚒𝚝𝚑𝚊
